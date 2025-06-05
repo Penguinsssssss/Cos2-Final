@@ -12,7 +12,7 @@ These are three of my best python projects since the start of the simester.
    world over multiple years, and run a standard ELO function on them. The program will iterate through every
    match since 2007 and keep track of each team's relative elo. Program will take ~14 minutes on school wifi.
    The output file is too large to upload to github, so see
-   'https://docs.google.com/spreadsheets/d/1jKMGAUFiOnZRT2sKwTiD3RjbcjyhuYJ-/edit?usp=sharing&ouid=114358099046785782682&rtpof=true&sd=true'
+   https://docs.google.com/spreadsheets/d/1jKMGAUFiOnZRT2sKwTiD3RjbcjyhuYJ-/edit?usp=sharing&ouid=114358099046785782682&rtpof=true&sd=true
    for example output.
 
 3) Scoutliers
