@@ -20,3 +20,5 @@ These are three of my best python projects since the start of the simester.
    raw data on performance of individual robots during the event, and output statistics used in the allience
    selection process. See 'Pine Tree Scouting - Week 3.xlsx' for example input file, and 'SlOutput.xlsx' for
    example output file.
+
+Hope you enjoy the programs, and have a great summer !!
