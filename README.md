@@ -1,6 +1,6 @@
 # Cos2-Final
 
-These are three of my best python projects since the start of the simester.
+These are three of my best python projects since the start of the simester. All code is made by me.
 
 1) JottoBotto
    JottoBotto is a computer program designed to help the user practice the game Jotto. Rules of the game 
